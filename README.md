@@ -1,6 +1,6 @@
 # Cooperative Agents in a Smart City Grid.
 
-A project of Veranika Paulava, Aristeidis Noulis , Jonathan Smyth and Cesar Gonzalez in the of master course Multi-Agents System at TUB.
+Developing further the project that i did with my colleques Veranika Paulava, Jonathan Smyth and Cesar Gonzalez for the master course Multi-Agents System atTUB.
 
 Implemented with Java and JADE framework.
 ContractNet for negotiations and Yellow Pages for services/requests.
